@@ -1,10 +1,21 @@
 # Business-analytics-project
+Project assesment:
 
-Build a conversion funnel
+1. Build a conversion funnel
 
-Prepare data for cohort analysis
+The executive team is interested in understanding how well the website is converting product page views into purchases. Your first job is to create a conversion funnel to better understand how users interact with the website.
 
-Calculated retention rate
+2. Prepare data for cohort analysis
+
+The company wants you to build acquisition cohorts based on the month of a user’s first purchase, and they want you to track cohort metrics month by month.
+
+The largest part of this project is data preparation for cohort analysis. Get ready to practice some advanced spreadsheet techniques!
+
+3. Calculated retention rate
+
+The last steps of the analysis are to aggregate the purchase data into cohorts and then calculate retention rates for each cohort month by month.
+
+Here are results:
 
 Cohort analysis
 
